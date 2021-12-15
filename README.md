@@ -158,6 +158,8 @@ El autor del blog [imborrable.com](http://imborrable.com) define de una forma m�
     [https://uncut.wtf/](https://uncut.wtf/)
     
 
+[Actividades](https://gist.github.com/Alfredprofe/710ce34d503f205eeea7456162748589)
+
 ### Referencias y bibliografía
 
 - Llasera, J. (2021). Tipografías: ¿Qué son, los diferentes tipos y sus variables tipográficas?. Diciembre 4, 2021, de Imborrable. Sitio web: [https://imborrable.com/blog/tipografias-que-son/](https://imborrable.com/blog/tipografias-que-son/)
