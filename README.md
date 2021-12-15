@@ -6,7 +6,7 @@ La sintaxis es la siguiente:
 
 Por sus siglas en inglés **Cascade Style Sheet** o traducido al español *Hojas de Estilo en Cascada*. Este lenguaje se usa para dar estilos a un documento HTML.
 
-El selector apunta al elemento HTML que queremos estilizar. Cada declaración tiene una propiedad con su respectivo valor. En el siguiente ejemplo el elemento <h1> tendrá un color rojo con un tamaño de 34px.
+El selector apunta al elemento HTML que queremos estilizar. Cada declaración tiene una propiedad con su respectivo valor. En el siguiente ejemplo el elemento `<h1>` tendrá un color rojo con un tamaño de 34px.
 
 ![https://i.ibb.co/MGmRr7n/html-css-h1.png](https://i.ibb.co/MGmRr7n/html-css-h1.png)
 
