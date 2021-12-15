@@ -31,7 +31,7 @@ Negro: es el borde.
 
 ¿Y para que sirve el modelo de caja? Nos permite agregar bordes, definir el espacio entre los elementos, además de dar un ancho, alto, fondo, etc.
 
-Dentro del modelo de caja existen dos tipos de elementos que son los de tipo **Bloque** y los de tipo **En Línea**
+Dentro del modelo de caja existen dos tipos de elementos que son los de tipo Bloque y los de tipo En Línea
 
 Elemento en Bloque:
 
@@ -81,7 +81,7 @@ Las medidas Relativas son dinámicas y cambian dependiendo de otra unidad de med
 Los colores en CSS se específican usando los sistemas de color RGB, HEX y HSL. CSS también tiene palabras clave contando con 140 nombres de color como Chocolate, Coral, Cyan, etc.
 
 <aside>
-👉🏼 Aquí los [**140 Nombres de Color**](https://www.w3schools.com/colors/colors_names.asp)
+👉🏼 Aquí los [140 Nombres de Color](https://www.w3schools.com/colors/colors_names.asp)
 
 </aside>
 
