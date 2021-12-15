@@ -31,7 +31,7 @@ Negro: es el borde.
 
 ¿Y para que sirve el modelo de caja? Nos permite agregar bordes, definir el espacio entre los elementos, además de dar un ancho, alto, fondo, etc.
 
-Dentro del modelo de caja existen dos tipos de elementos que son los de tipo Bloque y los de tipo En Línea
+Dentro del modelo de caja existen dos tipos de elementos que son los de tipo **Bloque** y los de tipo **En Línea**
 
 Elemento en Bloque:
 
@@ -42,17 +42,17 @@ Elemento en Línea:
 ![https://i.ibb.co/5WdCnvj/linea.png](https://i.ibb.co/5WdCnvj/linea.png)
 
 <aside>
-💡 Los elementos en **Bloque** inician en una nueva línea y abarcan todo el ancho disponible del navegador.
+💡 Los elementos en Bloque inician en una nueva línea y abarcan todo el ancho disponible del navegador.
 
 </aside>
 
 <aside>
-💡 Los elementos en **Línea** no inician en una nueva línea y solo abarcan el ancho necesario del elemento.
+💡 Los elementos en Línea no inician en una nueva línea y solo abarcan el ancho necesario del elemento.
 
 </aside>
 
 <aside>
-⚠️ Un elemento en **Línea** **NO** puede anidar un elemento en **Bloque**
+⚠️ Un elemento en Línea NO puede anidar un elemento en Bloque
 
 </aside>
 
@@ -80,10 +80,7 @@ Las medidas Relativas son dinámicas y cambian dependiendo de otra unidad de med
 
 Los colores en CSS se específican usando los sistemas de color RGB, HEX y HSL. CSS también tiene palabras clave contando con 140 nombres de color como Chocolate, Coral, Cyan, etc.
 
-<aside>
 👉🏼 Aquí los [140 Nombres de Color](https://www.w3schools.com/colors/colors_names.asp)
-
-</aside>
 
 Los valores de los sistemas de color son los siguientes a modo de ejemplo.
 
